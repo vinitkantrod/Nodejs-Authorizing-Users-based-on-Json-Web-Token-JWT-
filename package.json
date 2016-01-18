@@ -1,0 +1,11 @@
+{
+  "name": "json-web-token",
+  "main": "server.js",
+  "dependencies": {
+    "morgan": "~1.6.1",
+    "body-parser": "~1.14.2",
+    "express": "~4.13.3",
+    "jsonwebtoken": "~5.5.4",
+    "mongoose": "~4.3.6"
+  }
+}
